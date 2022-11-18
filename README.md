@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amine Andam
 - 🌱 I’m currently a PhD student (AI & cybersecurity)
 - 💻 I built several Python and R libraries : Geomaroc (Python\R), BVCscrap (Python) and barlaman (Python)
-- 🗳️ I launched [Nowab In Data](https://github.com/nowabindata) organization to use parliament data in IA projects
+- 🗳️ I launched [Nowab In Data](https://github.com/nowabindata) organization to use parliament data in AI projects
 - 📫 How to reach me:[@AmineAndam](https://twitter.com/AmineAndam)  or [ANDAM AMINE](https://www.linkedin.com/in/amineandam/).
